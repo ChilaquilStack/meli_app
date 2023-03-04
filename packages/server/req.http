@@ -1,0 +1,5 @@
+#Get items by query params
+GET http://localhost:3000/api/v1/items?q=Ipad
+
+#Get items by ID
+GET http://localhost:3000/api/v1/items/MLA921857562
